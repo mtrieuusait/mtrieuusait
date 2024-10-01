@@ -1,6 +1,4 @@
 # Hello, world! 👋
-
-git commit -m"Add Description of Hello World"
   
 ### About me:
 
