@@ -1,15 +1,30 @@
 # Hello, world! 👋
   
-### About me:
+## About me:
 
-  <p>
-<h2> Hello! My name is Mel, I'm a student in the IDD Program here at SAIT</h2>
+<h2> Hello! My name is Melissa, you can call me Mel.</h2>
+
+
+I'm a student in the IDD Program at the Southern Alberta Institute of Technology.
+
     
-_I used to work in the business field before moving to this field of study. My apologies if I seem intimidating..._
-
+__I have a background in Business Administration and quite the interest in graphic design.__ 
+  
+<p> My experience lays in Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, and Adobe Rush for this field. I am still learning about UX and Web development throughout the year.</p>
 ---  
-My hobbies include: art, cooking, reading (web)comics, listening to an array of music, hanging out with friends, and going out on walks.
+
+<p>
+Things I enjoy outside of the office:
+- Art
+- Cooking
+- Going for walks
+- Webcomics
+- Animation
+- Spending time with friends
 
 **It's nice to meet you all!**
   </p>
+
+
+
   
